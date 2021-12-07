@@ -13,7 +13,7 @@
 - Posts and Likes update in real time (websocket)
 
 <p align="center">
-  <img src="./.github/projeto.png" />
+  <img src="https://github.com/rolfottenfels/InstaRocket/blob/main/assets/layout.jpg" />
 </p>
 
 ## Backend
